@@ -28,20 +28,3 @@ This repository is organized by day-wise folders. Each folder contains:
 │   └── (coming soon)
 ...
 
----
-
-| Day | Task                                            | Status         |
-| --- | ----------------------------------------------- | -------------- |
-| 01  | Data Cleaning & Preprocessing (Titanic Dataset) | ✅ Completed    |
-| 02  | Coming soon...                                  | 🔄 In Progress |
-
----
-
-📌 Goals of This Internship
-Gain hands-on experience with real-world ML datasets.
-
-Master the data preprocessing pipeline.
-
-Learn to visualize, encode, scale, and clean data effectively.
-
-Build end-to-end ML models and evaluate performance.
